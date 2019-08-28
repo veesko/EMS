@@ -1,5 +1,5 @@
 # imports
-from flask import Flask,render_template,request,redirect,url_for,flash
+from flask import Flask,render_template,request,redirect,url_for,_flash
 from flask_sqlalchemy import SQLAlchemy
 
 # importing the configs
